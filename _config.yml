@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiule Fan"
-  avatar           : "profile.png"  # TODO
+  avatar           : "fan_profile.png"
   bio              : "Robotics, control, computer vision, and deep learning"
   location         : "Toronto, Canada"
   employer         :

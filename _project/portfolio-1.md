@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CRD-Fusion"
+excerpt: "A fast stereo-based deep learning model that can compute both disparity and occlusion mask <br/><img src='/images/CRD_Fusion_disp_0.png' width='300'><img src='/images/CRD_Fusion_occ_0.png' width='300'>"
 collection: project
 ---
 
