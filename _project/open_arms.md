@@ -25,12 +25,16 @@ One disadavantage of using a stepper motor is the lack of positional feedback. T
 
 The communication between all of the above electrical hardware is processed by an Arduino Mega board.
 <br/><img src='/images/open_arms/open_arms_electrical.png' width='450'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uwh22kJ5ed8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Software Design
 A ROS package is designed for a user to interface with the robot. ROS acts as an intermediate layer between the user and the robot itself. An overview of this strategy is shown below.
 <br/><img src='/images/open_arms/open_arms_control.png' width='450'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d6bCbIBrnVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 More specifically, the user can define the target pose or target joint positions for the robot. Then, the MoveIt package calculates a feasible path from the robot's current pose to the target one. The joint angles associated with this path are received by Arduino, which can move the corresponding joints on the robot.
 
 To allow the use of the MoveIt library, we also created a MoveIt configuration package.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sDRYHcYuMhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br/>
+Unfortunately, this project was affected by the global pandemic and we weren't able to complete it. Nevertheless, we still made our [design documentation](https://drive.google.com/drive/folders/18KQOBrrBuwdn3q3N6JAO2sE92LWY-BXw?usp=sharing) and [code](https://github.com/fanxiule/open_arms) available. 
