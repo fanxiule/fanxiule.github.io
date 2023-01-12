@@ -28,7 +28,7 @@ The communication between all of the above electrical hardware is processed by a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uwh22kJ5ed8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Software Design
-A ROS package is designed for a user to interface with the robot. ROS acts as an intermediate layer between the user and the robot itself. An overview of this strategy is shown below.
+A ROS package was designed for a user to interface with the robot. ROS acts as an intermediate layer between the user and the robot itself. An overview of this strategy is shown below.
 <br/><img src='/images/open_arms/open_arms_control.png' width='450'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d6bCbIBrnVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

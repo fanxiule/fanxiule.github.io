@@ -14,8 +14,6 @@ This pipeline assumes that an initial disparity map (raw disparity map) is avail
 <img src='/images/crd_fusion/crd_fusion_network.png' width='720'>
 <br/>
 
-A demo video of this pipeline is shown below. More details can also be found in our [paper](https://ieeexplore.ieee.org/abstract/document/9867106) and [code](https://github.com/fanxiule/CRD_Fusion). 
+A demo video of this pipeline is shown below. More details can also be found in our [paper](https://ieeexplore.ieee.org/abstract/document/9867106) published at the Conference on Robots and Vision 2022 and our [code](https://github.com/fanxiule/CRD_Fusion). 
 <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/axtEBveQJeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-test test
