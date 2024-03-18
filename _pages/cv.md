@@ -11,6 +11,11 @@ redirect_from:
 
 Work experience
 ======
+* **Autonomy Developer, Perception**, OTTO Motors, 2022.08-Present
+  * Supported ongoing robot perception-related projects deployed on autonomous mobile robots at OTTO Motors, the industrial division of Clearpath Robotics
+  * Designed evaluation tools to compare existing 3D cameras and provided recommendations in sensor selection based on findings
+  * Developed filters and plugins to improve 3D sensing performance of the robots
+  * Investigated state-of-the-art perception algorithms in various areas, including object detection and 3D SLAM
 * **Graduate Researcher**, University of Waterloo, 2020.09-2022.07
   * Integrated model-based techniques with data-driven methods in PyTorch to improve self-supervised stereo-matching accuracy by ~3.5% while maintaining a frame rate of 30+ fps on a medium-grade GPU
   * Designed a patent-pending unsupervised stereo-matching model for high-quality indoor depth estimation in collaboration with Avidbots Corp.
@@ -48,9 +53,9 @@ Work experience
 Skills
 ======
 * **Programming**: Python, C++, MATLAB/Simulink, Java
-* **Machine Learning**: PyTorch, Scikit-learn, Keras, Numpy, Matplotlib, Scipy, Pandas
+* **Machine Learning**: PyTorch, Scikit-learn, TensorRT, Keras, Numpy, Matplotlib, Scipy, Pandas
 * **Robotics**: ROS, Gazebo
-* **Computer Vision**: OpenCV, Pillow, Scikit-image
+* **Computer Vision**: OpenCV, Pillow, Scikit-image, PCL
 * **Mechanical Design**: Solidworks, AutoCAD, Siemens NX, GD&T, FEA
 * **Rapid Prototyping**: Arduino, 3D printing, soldering
 * **Version Control**: Git, Solidworks PDM
@@ -66,14 +71,16 @@ Publications
 
 Education
 ======
-* **M.Eng in Mechanical and Industrial Engineering**, University of Toronto, 2022.09-2023.08 (expected)
+* **M.Eng in Mechanical and Industrial Engineering**, University of Toronto, 2022.09-2023.08
+  * Emphasis in Entrepreneurship, Leadership, Innovation and Technology in Engineering
+  * GPA: 4.0/4.0
 * **M.A.Sc in Mechanical and Mechatronics Engineering**, University of Waterloo, 2020.09-2022.07
   * GPA: 90.75/100
   * Supervisors: Prof. Baris Fidan and Prof. Soo Jeon
   * Thesis: [Vision-based Self-Supervised Depth Perception and Motion Control for Mobile Robots](https://uwspace.uwaterloo.ca/handle/10012/18449)
 * **B.A.Sc in Mechanical Engineering**, University of Waterloo, 2015.09-2020.04
   * Co-operative education
-  * GAP: 88.48/100
+  * GPA: 88.48/100
   * Graduated on the Dean's Honours List and received Graduation with Distinction
   * Capstone design project: A low-cost robotic arm with 7 degrees of freedom for educational purposes
 
@@ -92,7 +99,10 @@ Awards and Scholarships
 
 Volunteering Activities
 ======
-* **Reviewer**, IEEE Transactions on Intelligent Transportation Systems, 2021.01
+* **Reviewer**, various venues and dates
+  * IEEE Transactions on Intelligent Transportation Systems
+  * American Control Conference
+  * European Control Conference
 * **Mechanical Designer**, University of Waterloo Submarine Racing Team, 2016.09-2020.04
   * Designed mechanical components on a human-powered submarine
   * Collaborated with designers from other sub-teams regarding design change, design reviews, and system integration
