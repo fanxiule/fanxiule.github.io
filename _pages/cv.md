@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* **Autonomy Developer, Perception**, OTTO Motors, 2022.08-Present
+* **Autonomy Developer, Perception**, OTTO Motors, 2023.08-Present
   * Supported ongoing robot perception-related projects deployed on autonomous mobile robots at OTTO Motors, the industrial division of Clearpath Robotics
   * Designed evaluation tools to compare existing 3D cameras and provided recommendations in sensor selection based on findings
   * Developed filters and plugins to improve 3D sensing performance of the robots
